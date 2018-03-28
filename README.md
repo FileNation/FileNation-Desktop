@@ -5,6 +5,11 @@
 _The simplest way to send unlimited files around the world_
 
 ### Steps
+
+1. Download the .dmg installer or the .zip archive from our official GitHub repo
+
+2. Run the installer or extract the files contained in the .zip file
+
 Please keep in mind that a message as the one you can see below might appear after downloading (releases) and trying to open the FileNation desktop application. This is common whenever downloading an application from a source different than the official AppStore.
 
 Do not worry, our application is virus-free, so the way to work around this is:
